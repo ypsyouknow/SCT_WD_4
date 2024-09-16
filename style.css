@@ -1,0 +1,34 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container
+{
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    background-color: #FFFFF0;
+    text-align: center;
+}
+
+button.only
+{
+    background-color: greenyellow;
+    border: 0px;
+    height: 40px;
+    width: 90px;
+}
+
+ul
+{
+    list-style:none;
+}
+
+.btn
+{
+    margin-right: 10px;
+}
